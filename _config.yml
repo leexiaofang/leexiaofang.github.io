@@ -1,11 +1,11 @@
-title: 分享经验 共同成长
+title: 所有文章
 description: My Personal Stack Problems
 author: 取乎其上
 github: https://leexiaofang.github.io
 about: 深入理解基本概念 提升实际开发效率
 disqus_shortname: 所有文章
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+avatar_url: /static/img/dream.jpg
 
 enableTags: true
 tagarray: []
