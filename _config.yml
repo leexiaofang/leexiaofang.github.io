@@ -1,9 +1,9 @@
-title: Stack Problems
+title: 分享经验 共同成长
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+author: 取乎其上
+github: https://leexiaofang.github.io
+about: 深入理解基本概念 提升实际开发效率
+disqus_shortname: 所有文章
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -16,30 +16,24 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
     - icon: fa-linkedin
       link: "#"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://leexiaofang.github.io"
 
 share:
   twitter_username: github.io
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: 自我介绍
       url: /about/
-    - text: My Projects
+    - text: 我的项目
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://leexiaofang.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
